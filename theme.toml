@@ -1,17 +1,17 @@
-name = "Beautiful Hugo"
+name = "Beautiful Security"
 license = "MIT"
-licenselink = "https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/LICENSE"
-description = "An adaptation of the Beautiful Jekyll theme"
+licenselink = "https://github.com/devsecurity-io/beautiful-security/blob/master/LICENSE"
+description = "An adaptation of the Beautiful Hugo theme"
 tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive", "seo", "google analytics", "bootstrap", "disqus", "light", "syntax highlighting", "multilingual", "portfolio", "projects", "mobile", "technical"]
 features = ["blog", "company", "portfolio", "projects", "minimal", "responsive", "seo", "google analytics", "bootstrap", "disqus", "light", "syntax highlighting", "multilingual", "portfolio", "projects", "mobile", "technical"]
 min_version = 0.48
 
 [author]
-    name = "halogenica"
-    homepage = "http://halogenica.net"
+    name = "devsecurity-io"
+    homepage = "https://devsecurity.io"
 
 # If Porting existing theme
 [original]
-    author =  "dattali"
-    homepage = "http://deanattali.com/beautiful-jekyll/"
-    repo = "https://github.com/daattali/beautiful-jekyll"
+    author =  "halogenica"
+    homepage = "http://halogenica.net"
+    repo = "https://github.com/halogenica/beautifulhugo"
